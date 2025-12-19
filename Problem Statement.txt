@@ -1,0 +1,5 @@
+The Problem Statement of our project PLC is we will be analyzing the lifecycle of FMCG products and going to predict its stages:
+1. Introduction
+2. Growth
+3. Maturity
+4. Decline
